@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="AutomatingTestCase3">
+	<test name="TestCase3">
+		
+		<classes>
+			<class name="testSendEmail.TestSendEmail"/>		
+		</classes>
+	</test>
+	
+</suite>
