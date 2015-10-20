@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="AutomatingTestCase4">
+	<test name="TestCase4">
+		
+		<classes>
+			<class name="shareAnEvent.ShareEvent"/>		
+		</classes>
+	</test>
+	
+</suite>
