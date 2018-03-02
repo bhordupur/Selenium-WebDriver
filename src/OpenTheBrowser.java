@@ -117,7 +117,7 @@ public class OpenTheBrowser {
 					//wait for gmail to be loaded 
 					driver.manage().timeouts().implicitlyWait(7, TimeUnit.SECONDS);
 					//write your Email
-					driver.findElement(By.id("Email")).sendKeys("rupalisomoy");
+					driver.findElement(By.id("Email")).sendKeys("xxxxxx");
 					//write your pass
 					driver.findElement(By.cssSelector("input#Passwd")).sendKeys("xxxxxx");
 				
