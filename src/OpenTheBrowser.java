@@ -119,7 +119,7 @@ public class OpenTheBrowser {
 					//write your Email
 					driver.findElement(By.id("Email")).sendKeys("rupalisomoy");
 					//write your pass
-					driver.findElement(By.cssSelector("input#Passwd")).sendKeys("0123-LINCOLN");
+					driver.findElement(By.cssSelector("input#Passwd")).sendKeys("xxxxxx");
 				
 					//Click on the sign in button
 					driver.findElement(By.cssSelector("#signIn")).click();
